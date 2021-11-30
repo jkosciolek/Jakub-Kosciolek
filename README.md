@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jakub
-- 👀 I’m interested in running, aikido and music
-- 🌱 I’m currently learning Python and C++
+- 👀 I’m interested in coding in Python
+- 🌱 I’m currently learning Python, C++, R and Swift
 - 💞️ I’m looking to collaborate on nothing special now
 - 📫 How to reach me: facebook.com/jakub.kosciolek
 
