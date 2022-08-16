@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Jakub
-- 👀 I’m interested in coding in Python
-- 🌱 I’m currently learning Python, C++, R and Swift
-- 💞️ I’m looking to collaborate on nothing special now
-- 📫 How to reach me: facebook.com/jakub.kosciolek
+Hi, I'm Jakub. I'm an IT Student from Poland.
 
-<!---
-Zumel/Zumel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm interested in Python and using it in Machine Learning. 
+Currently I'm learning Flask and some ML libraries for Python. 
+
+
