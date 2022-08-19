@@ -8,4 +8,4 @@ CV: https://cv-jkosciolek.netlify.app
 
 Besides my interests in work and studying, I also have some hobbies: 
 I' learning Japanese 🇯🇵 おはようございます！
-I like running and sometimes play video games. 
+I like running and sometimes playing video games. 
