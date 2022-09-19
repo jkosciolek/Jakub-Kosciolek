@@ -7,3 +7,5 @@ Currently I'm learning Flask and some Machine Learning libraries for Python.
 Besides my professional and academic interests, I also have some hobbies: 
 I' learning Japanese 🇯🇵 おはようございます！
 I like running and sometimes playing video games. 
+
+My CV: cv-jkosciolek.netlify.app
